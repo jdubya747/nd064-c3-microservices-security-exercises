@@ -4,7 +4,7 @@ This repo contains starter code and docs for the course exercises.
 
 ## Folder Structure
 
-### Lesson Folder
+### Lesson Folderjj
 
 This repo contains a folder for each `lesson` folder.
 
